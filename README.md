@@ -5,7 +5,7 @@
 -   Exploiting the feature of the Python language to produce code that is clear, concise, and maintainable.
 -   Code that doesn't just get the syntax right but that follows the conventions of the python community and uses the language in the way it is intended to be used.
 
-[ref](https://stackoverflow.com/a/25011492/5373017)
+[reference](https://stackoverflow.com/a/25011492/5373017)
 
 ### Repository structure
 
