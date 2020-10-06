@@ -4,4 +4,4 @@ for i in range(len(arr)):
     print(arr[-i], end=' ')
 
 # Result
-# 5 6 5 9 2
+# 6 5 9 2 5
