@@ -1,7 +1,7 @@
 with open('arrayIteration.py', 'rb') as f: # Open file with contentmanager
     python_file = f.read() # Read content from file
-print(python_file)
-# Do other stuff with the file. No need for closing the file, because of the with statement.
+    print(python_file)
+    # Do other stuff with the file. No need for closing the file, because of the with statement.
 
 # Result 
 # arr = [5, 2, 9, 5, 6]
