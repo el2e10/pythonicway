@@ -5,8 +5,7 @@ for value in reversed(arr):
 
 # OR
 
-for value in arr[::-1]:
-    print(f'{value}', end=' ')
+print(*(reversed(arr)))  # Unpack with *
 
 # Result
-# 5 6 5 9 2
+# 6 5 9 2 5
