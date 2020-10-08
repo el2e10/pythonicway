@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./logo.png" width="75">
     <h1> PythonicWay </h1>
-    <h3><em>Life is short, use Python!</em></h3>
+    <h4><em>Life is short, use Python!</em></h4>
 </div>
 
 ## Getting Started
