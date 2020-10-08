@@ -1,4 +1,8 @@
-# Pythonicway
+<div align="center">
+    <img src="./logo.png" width="50">
+    <h1> PythonicWay </h1>
+    
+</div>
 
 _Life is short, use Python!_
 
