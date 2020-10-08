@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./logo.png" width="50">
+    <img src="./logo.png" width="100">
     <h1> PythonicWay </h1>
     
 </div>
