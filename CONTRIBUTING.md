@@ -8,9 +8,9 @@
 - Before making a Pull Request add details on the README.md file about your program and link your program in the table given.
 - Follow the given Schema to enter your program details:
   #### Enter Details in the table as follows
-  | Serial No.| Program          | Normal Way                                             |Pythonic Way                                              |
-  |-----------|:----------------:|:------------------------------------------------------:|---------------------------------------------------------:|
-  | Serial No |Brief Program Name|[nameOfFile.py](/blob/master/Normal%20way/nameoffile.py)|[nameOfFile.py](/blob/master/Pythonic%20way/nameoffile.py)|
+  | Serial No.| Program          | Normal Way                                             |Pythonic Way                                               |
+  |-----------|:----------------:|:------------------------------------------------------:|:---------------------------------------------------------:|
+  | Serial No |Brief Program Name|[nameOfFile.py](/Normal%20way/nameoffile.py)            |[nameOfFile.py](/Pythonic%20way/nameoffile.py)|
 
 _How do I create a Pull Request?_
 
