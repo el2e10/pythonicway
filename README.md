@@ -19,24 +19,24 @@ The repository contains two directories:
 
 The _Zen of Python_ (PEP20), Tim Peters:
 
-_Beautiful is better than ugly.  
-Explicit is better than implicit.  
-Simple is better than complex.  
-Complex is better than complicated.  
-Flat is better than nested.  
-Sparse is better than dense.  
-Readability counts.  
-Special cases aren’t special enough to break the rules.  
-Although practicality beats purity.  
-Errors should never pass silently.  
-Unless explicitly silenced.  
-In the face of ambiguity, refuse the temptation to guess.  
-There should be one — and preferably only one — obvious way to do it.  
-Although that way may not be obvious at first unless you’re Dutch.  
-Now is better than never.  
-Although never is often better than \*right\* now.  
-If the implementation is hard to explain, it’s a bad idea.  
-If the implementation is easy to explain, it may be a good idea.  
+_Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren’t special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one — and preferably only one — obvious way to do it.
+Although that way may not be obvious at first unless you’re Dutch.
+Now is better than never.
+Although never is often better than \*right\* now.
+If the implementation is hard to explain, it’s a bad idea.
+If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea — let’s do more of those!_
 
 ## Contributing
@@ -64,7 +64,7 @@ Please check the [contribution guidelines](./CONTRIBUTING.md) for more informati
 | 15         |   Swapping Variables   |                      [swappingVars.py](/Normal%20way/swappingVars.py)                      |                      [swappingVars.py](/Pythonic%20way/swappingVars.py)                      |
 | 16         |   Frequency of Words   |                     [wordFrequency.py](/Normal%20way/wordFrequency.py)                     |                     [wordFrequency.py](/Pythonic%20way/wordFrequency.py)                     |
 | 17         |   Print String N Times   |                     [printStringNTimes.py](/Normal%20way/printStringNTimes.py)                     |                     [printStringNTimes.py](/Pythonic%20way/printStringNTimes.py)                     |
-
+| 18         |   Calculate Cartesian Product   |                     [cartesianProduct.py](/Normal%20way/cartesianProduct.py)                     |                     [cartesianProduct.py](/Pythonic%20way/cartesianProduct.py)                     |
 
 
 **Contributions are welcome!**
