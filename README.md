@@ -64,7 +64,7 @@ Please check the [contribution guidelines](./CONTRIBUTING.md) for more informati
 | 15         |   Swapping Variables   |                      [swappingVars.py](/Normal%20way/swappingVars.py)                      |                      [swappingVars.py](/Pythonic%20way/swappingVars.py)                      |
 | 16         |   Frequency of Words   |                     [wordFrequency.py](/Normal%20way/wordFrequency.py)                     |                     [wordFrequency.py](/Pythonic%20way/wordFrequency.py)                     |
 | 17         |   Print String N Times   |                     [printStringNTimes.py](/Normal%20way/printStringNTimes.py)                     |                     [printStringNTimes.py](/Pythonic%20way/printStringNTimes.py)                     |
-| 18         |   Transpose Of a Matrix   |                     [transposeMatrix.py.py](/Normal%20way/transposeMatrix.py.py)                     |                     [transposeMatrix.py.py](/Pythonic%20way/transposeMatrix.py.py)                     |
+| 18         |   Transpose Of a Matrix   |                     [transposeMatrix.py](/Normal%20way/transposeMatrix.py)                     |                     [transposeMatrix.py](/Pythonic%20way/transposeMatrix.py)                     |
 
 
 
