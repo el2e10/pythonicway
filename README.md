@@ -63,5 +63,8 @@ Please check the [contribution guidelines](./CONTRIBUTING.md) for more informati
 | 14         |  Shorthand Condition   |                [shorthandCondition.py](/Normal%20way/shorthandCondition.py)                |                [shorthandCondition.py](/Pythonic%20way/shorthandCondition.py)                |
 | 15         |   Swapping Variables   |                      [swappingVars.py](/Normal%20way/swappingVars.py)                      |                      [swappingVars.py](/Pythonic%20way/swappingVars.py)                      |
 | 16         |   Frequency of Words   |                     [wordFrequency.py](/Normal%20way/wordFrequency.py)                     |                     [wordFrequency.py](/Pythonic%20way/wordFrequency.py)                     |
+| 17         |   Print String N Times   |                     [printStringNTimes.py](/Normal%20way/printStringNTimes.py)                     |                     [printStringNTimes.py](/Pythonic%20way/printStringNTimes.py)                     |
+
+
 
 **Contributions are welcome!**
