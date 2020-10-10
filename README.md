@@ -8,14 +8,14 @@
 
 What does _pythonic_ mean? ~ [Stack Overflow](https://stackoverflow.com/a/25011492/5373017):
 
--   Exploiting the feature of the Python language to produce code that is clear, concise, and maintainable.
--   Code that doesn't just get the syntax right but that follows the conventions of the Python community and uses the language in the way it is intended to be used.
+- Exploiting the feature of the Python language to produce code that is clear, concise, and maintainable.
+- Code that doesn't just get the syntax right but that follows the conventions of the Python community and uses the language in the way it is intended to be used.
 
 The repository contains two directories:
 
--   _Normal way_ : Python programs written in a way that you'd usually see in other common languages such as Java/C++.
+- _Normal way_ : Python programs written in a way that you'd usually see in other common languages such as Java/C++.
 
--   _Pythonic way_: The same programs as above, but redesigned to be more "pythonic".
+- _Pythonic way_: The same programs as above, but redesigned to be more "pythonic".
 
 The _Zen of Python_ (PEP20), Tim Peters:
 
@@ -63,5 +63,6 @@ Please check the [contribution guidelines](./CONTRIBUTING.md) for more informati
 | 14         |  Shorthand Condition   |                [shorthandCondition.py](/Normal%20way/shorthandCondition.py)                |                [shorthandCondition.py](/Pythonic%20way/shorthandCondition.py)                |
 | 15         |   Swapping Variables   |                      [swappingVars.py](/Normal%20way/swappingVars.py)                      |                      [swappingVars.py](/Pythonic%20way/swappingVars.py)                      |
 | 16         |   Frequency of Words   |                     [wordFrequency.py](/Normal%20way/wordFrequency.py)                     |                     [wordFrequency.py](/Pythonic%20way/wordFrequency.py)                     |
+| 17         |  Unpacking Arguments   |                   [unpackVariables.py](/Normal%20way/unpackVariables.py)                   |                   [unpackVariables.py](/Pythonic%20way/unpackVariables.py)                   |
 
 **Contributions are welcome!**
