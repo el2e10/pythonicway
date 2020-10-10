@@ -1,10 +1,18 @@
 # Contribution Guide
 
-- Add normal and pythonic way programs in the respective directories.
-- Check whether similar programs already exist.
-- The name of the file should indicate the program you are going to implement.
-- A file should contain only a single program.
-- All programs should be written in Python3.
+-   Add normal and pythonic way programs in the respective directories.
+-   Check whether similar programs already exist (Refer to the README.md File).
+-   The name of the file should indicate the program you are going to implement (Keep it brief and short).
+-   A file should contain only a single program.
+-   All programs should be written in Python3.
+-   Use camel casing(testFileName) for file names.
+-   Use snake casing(test_variable_name) for variable names.
+-   Before making a Pull Request add details on the README.md file about your program and link your program in the table given.
+-   Follow the given Schema to enter your program details:
+    #### Enter Details in the table as follows
+    | Serial No. |      Program       |                  Normal Way                  |                  Pythonic Way                  |
+    | ---------- | :----------------: | :------------------------------------------: | :--------------------------------------------: |
+    | Serial No  | Brief Program Name | [nameOfFile.py](/Normal%20way/nameoffile.py) | [nameOfFile.py](/Pythonic%20way/nameoffile.py) |
 
 _How do I create a Pull Request?_
 

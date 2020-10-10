@@ -1,11 +1,14 @@
 key = 2
 arr = [1, 2, 3, 4, 5, 2]
 
-#construct new arr without key
-newarr = []
+# construct new arr without key
+new_arr = []
 
 for element in arr:
     if element != key:
-        newarr.append(element)
+        new_arr.append(element)
 
-print(newarr)
+print(new_arr)
+
+# Result
+# [1, 3, 4, 5]

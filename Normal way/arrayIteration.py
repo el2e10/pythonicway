@@ -5,8 +5,8 @@ for i in range(len(arr)):
 
 
 # Result
-# 0 : 1
+# 0 : 5
 # 1 : 2
-# 2 : 4
+# 2 : 9
 # 3 : 5
 # 4 : 6
