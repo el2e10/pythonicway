@@ -7,3 +7,6 @@ for key in sample_dict:
         max_key = key
 
 print('In the dictionary, there are the most ' + str(max_key) + ' (' + str(max_value) + ').')
+
+# Result
+# In the dictionary, there are the most Turtles (5).
