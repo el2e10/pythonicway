@@ -66,6 +66,7 @@ Please check the [contribution guidelines](./CONTRIBUTING.md) for more informati
 | 17         |   Print String N Times   |                     [printStringNTimes.py](/Normal%20way/printStringNTimes.py)                     |                     [printStringNTimes.py](/Pythonic%20way/printStringNTimes.py)                     |
 | 18         |   Transpose Of a Matrix   |                     [transposeMatrix.py](/Normal%20way/transposeMatrix.py)                     |                     [transposeMatrix.py](/Pythonic%20way/transposeMatrix.py)                     |
 | 19         |   Calculate Cartesian Product   |                     [cartesianProduct.py](/Normal%20way/cartesianProduct.py)                     |                     [cartesianProduct.py](/Pythonic%20way/cartesianProduct.py)                     |
+| 20         |   Switch Key and Value of Map   |                     [dictKeyValueSwitch.py](/Normal%20way/dictKeyValueSwitch.py)                     |                     [dictKeyValueSwitch.py](/Pythonic%20way/dictKeyValueSwitch.py)                     |
 
 
 **Contributions are welcome!**
