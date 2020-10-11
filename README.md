@@ -69,6 +69,6 @@ Please check the [contribution guidelines](./CONTRIBUTING.md) for more informati
 | 20         |   Switch Key and Value of Map   |                     [dictKeyValueSwitch.py](/Normal%20way/dictKeyValueSwitch.py)                     |                     [dictKeyValueSwitch.py](/Pythonic%20way/dictKeyValueSwitch.py)                     |
 | 21         |   Key of Max Dictionary Value   |                     [keyOfMaxDictVal.py](/Normal%20way/keyOfMaxDictVal.py)                     |                     [keyOfMaxDictVal.py](/Pythonic%20way/keyOfMaxDictVal.py)                     |
 | 22         |     Unpacking Arguments     |                   [unpackVariables.py](/Normal%20way/unpackVariables.py)                   |                   [unpackVariables.py](/Pythonic%20way/unpackVariables.py)
-
+| 23         |     Nested List into one List     |                   [nestedListIntoOneList.py](/Normal%20way/nestedListIntoOneList.py)                   |                   [nestedListIntoOneList.py](/Pythonic%20way/nestedListIntoOneList.py)
 
 **Contributions are welcome!**
