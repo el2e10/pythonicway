@@ -45,7 +45,6 @@ Please check the [contribution guidelines](./CONTRIBUTING.md) for more informati
 
 #### List of Completed Programs
 
-<<<<<<< HEAD
 | Serial No. |        Program         |                                         Normal Way                                         |                                         Pythonic Way                                         |
 | ---------- | :--------------------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
 | 1          |    Array Iteration     |                    [arrayIteration.py](/Normal%20way/arrayIteration.py)                    |                    [arrayIteration.py](/Pythonic%20way/arrayIteration.py)                    |
@@ -94,6 +93,6 @@ Please check the [contribution guidelines](./CONTRIBUTING.md) for more informati
 | 19         | Calculate Cartesian Product |                  [cartesianProduct.py](/Normal%20way/cartesianProduct.py)                  |                  [cartesianProduct.py](/Pythonic%20way/cartesianProduct.py)                  |
 | 20         | Switch Key and Value of Map |                [dictKeyValueSwitch.py](/Normal%20way/dictKeyValueSwitch.py)                |                [dictKeyValueSwitch.py](/Pythonic%20way/dictKeyValueSwitch.py)                |
 | 21         |     Unpacking Arguments     |                   [unpackVariables.py](/Normal%20way/unpackVariables.py)                   |                   [unpackVariables.py](/Pythonic%20way/unpackVariables.py)                   |
->>>>>>> 7e6fc4000203513af442f6d562a0611980a226a4
+
 
 **Contributions are welcome!**
