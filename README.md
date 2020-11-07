@@ -74,6 +74,6 @@ Please check the [contribution guidelines](./CONTRIBUTING.md) for more informati
 | 25         |    Capitalize every word in a sentance     |         [capitalizeWordsInSentance.py](/Normal%20way/capitalizeWordsInSentance.py)         |         [capitalizeWordsInSentance.py](/Pythonic%20way/capitalizeWordsInSentance.py)         |
 | 26         |       Check if a word is an anagram        |                      [checkAnagram.py](/Normal%20way/checkAnagram.py)                      |                      [checkAnagram.py](/Pythonic%20way/checkAnagram.py)                      |
 | 27         | Count the number of characters in a string |          [countOfSpecificCharaters.py](/Normal%20way/countOfSpecificCharaters.py)          |          [countOfSpecificCharaters.py](/Pythonic%20way/countOfSpecificCharaters.py)          |
-| 28         | Count the number of characters in a string |                   [unpackIterables.py](/Normal%20way/unpackIterables.py)                   |                   [unpackIterables.py](/Pythonic%20way/unpackIterables.py)                   |
+| 28         | Unpacking different iterables using * |                   [unpackIterables.py](/Normal%20way/unpackIterables.py)                   |                   [unpackIterables.py](/Pythonic%20way/unpackIterables.py)                   |
 
 ## Contributions are welcome
